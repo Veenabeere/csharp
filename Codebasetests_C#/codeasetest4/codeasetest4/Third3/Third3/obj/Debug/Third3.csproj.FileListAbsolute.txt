@@ -1,0 +1,7 @@
+D:\csharp\Codebasetests_C#\codeasetest4\Third3\Third3\bin\Debug\Third3.exe.config
+D:\csharp\Codebasetests_C#\codeasetest4\Third3\Third3\bin\Debug\Third3.exe
+D:\csharp\Codebasetests_C#\codeasetest4\Third3\Third3\bin\Debug\Third3.pdb
+D:\csharp\Codebasetests_C#\codeasetest4\Third3\Third3\obj\Debug\Third3.csproj.AssemblyReference.cache
+D:\csharp\Codebasetests_C#\codeasetest4\Third3\Third3\obj\Debug\Third3.csproj.CoreCompileInputs.cache
+D:\csharp\Codebasetests_C#\codeasetest4\Third3\Third3\obj\Debug\Third3.exe
+D:\csharp\Codebasetests_C#\codeasetest4\Third3\Third3\obj\Debug\Third3.pdb

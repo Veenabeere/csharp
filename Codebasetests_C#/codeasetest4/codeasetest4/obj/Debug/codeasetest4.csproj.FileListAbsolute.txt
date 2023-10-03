@@ -1,0 +1,7 @@
+D:\csharp\Codebasetests_C#\codeasetest4\codeasetest4\bin\Debug\codeasetest4.exe.config
+D:\csharp\Codebasetests_C#\codeasetest4\codeasetest4\bin\Debug\codeasetest4.exe
+D:\csharp\Codebasetests_C#\codeasetest4\codeasetest4\bin\Debug\codeasetest4.pdb
+D:\csharp\Codebasetests_C#\codeasetest4\codeasetest4\obj\Debug\codeasetest4.csproj.AssemblyReference.cache
+D:\csharp\Codebasetests_C#\codeasetest4\codeasetest4\obj\Debug\codeasetest4.csproj.CoreCompileInputs.cache
+D:\csharp\Codebasetests_C#\codeasetest4\codeasetest4\obj\Debug\codeasetest4.exe
+D:\csharp\Codebasetests_C#\codeasetest4\codeasetest4\obj\Debug\codeasetest4.pdb
