@@ -1,0 +1,14 @@
+D:\csharp\Casestudy3\Casestudy3\bin\Debug\Casestudy3.exe.config
+D:\csharp\Casestudy3\Casestudy3\bin\Debug\Casestudy3.exe
+D:\csharp\Casestudy3\Casestudy3\bin\Debug\Casestudy3.pdb
+D:\csharp\Casestudy3\Casestudy3\bin\Debug\Casestudy1.exe
+D:\csharp\Casestudy3\Casestudy3\bin\Debug\Casestudy2.exe
+D:\csharp\Casestudy3\Casestudy3\bin\Debug\Casestudy1.pdb
+D:\csharp\Casestudy3\Casestudy3\bin\Debug\Casestudy1.exe.config
+D:\csharp\Casestudy3\Casestudy3\bin\Debug\Casestudy2.pdb
+D:\csharp\Casestudy3\Casestudy3\bin\Debug\Casestudy2.exe.config
+D:\csharp\Casestudy3\Casestudy3\obj\Debug\Casestudy3.csproj.AssemblyReference.cache
+D:\csharp\Casestudy3\Casestudy3\obj\Debug\Casestudy3.csproj.CoreCompileInputs.cache
+D:\csharp\Casestudy3\Casestudy3\obj\Debug\Casestudy3.csproj.CopyComplete
+D:\csharp\Casestudy3\Casestudy3\obj\Debug\Casestudy3.exe
+D:\csharp\Casestudy3\Casestudy3\obj\Debug\Casestudy3.pdb
