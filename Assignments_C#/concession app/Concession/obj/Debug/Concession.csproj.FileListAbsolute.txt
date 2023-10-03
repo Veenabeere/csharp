@@ -1,0 +1,5 @@
+D:\case study\concession app\Concession\bin\Debug\Concession.dll
+D:\case study\concession app\Concession\bin\Debug\Concession.pdb
+D:\case study\concession app\Concession\obj\Debug\Concession.csproj.CoreCompileInputs.cache
+D:\case study\concession app\Concession\obj\Debug\Concession.dll
+D:\case study\concession app\Concession\obj\Debug\Concession.pdb

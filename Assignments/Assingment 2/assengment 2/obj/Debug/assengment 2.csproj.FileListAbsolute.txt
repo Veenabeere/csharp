@@ -1,7 +1,0 @@
-D:\csharp\assengment 2\assengment 2\obj\Debug\assengment 2.csproj.CoreCompileInputs.cache
-D:\csharp\assengment 2\assengment 2\obj\Debug\assengment 2.csproj.AssemblyReference.cache
-D:\csharp\assengment 2\assengment 2\bin\Debug\assengment 2.exe.config
-D:\csharp\assengment 2\assengment 2\bin\Debug\assengment 2.exe
-D:\csharp\assengment 2\assengment 2\bin\Debug\assengment 2.pdb
-D:\csharp\assengment 2\assengment 2\obj\Debug\assengment 2.exe
-D:\csharp\assengment 2\assengment 2\obj\Debug\assengment 2.pdb

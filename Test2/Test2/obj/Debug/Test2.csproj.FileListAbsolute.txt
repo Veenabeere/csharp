@@ -1,7 +1,0 @@
-D:\exam\Test2\Test2\bin\Debug\Test2.exe.config
-D:\exam\Test2\Test2\bin\Debug\Test2.exe
-D:\exam\Test2\Test2\bin\Debug\Test2.pdb
-D:\exam\Test2\Test2\obj\Debug\Test2.csproj.AssemblyReference.cache
-D:\exam\Test2\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
-D:\exam\Test2\Test2\obj\Debug\Test2.exe
-D:\exam\Test2\Test2\obj\Debug\Test2.pdb

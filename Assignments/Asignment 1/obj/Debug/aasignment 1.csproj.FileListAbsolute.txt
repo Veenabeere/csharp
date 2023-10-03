@@ -1,7 +1,0 @@
-D:\csharp\aasignment 1\aasignment 1\obj\Debug\aasignment 1.csproj.AssemblyReference.cache
-D:\csharp\aasignment 1\aasignment 1\obj\Debug\aasignment 1.csproj.CoreCompileInputs.cache
-D:\csharp\aasignment 1\aasignment 1\bin\Debug\aasignment 1.exe.config
-D:\csharp\aasignment 1\aasignment 1\bin\Debug\aasignment 1.exe
-D:\csharp\aasignment 1\aasignment 1\bin\Debug\aasignment 1.pdb
-D:\csharp\aasignment 1\aasignment 1\obj\Debug\aasignment 1.exe
-D:\csharp\aasignment 1\aasignment 1\obj\Debug\aasignment 1.pdb

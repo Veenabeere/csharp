@@ -1,7 +1,0 @@
-D:\csharp\assessment 3\assessment 3\bin\Debug\assessment 3.exe.config
-D:\csharp\assessment 3\assessment 3\bin\Debug\assessment 3.exe
-D:\csharp\assessment 3\assessment 3\bin\Debug\assessment 3.pdb
-D:\csharp\assessment 3\assessment 3\obj\Debug\assessment 3.csproj.AssemblyReference.cache
-D:\csharp\assessment 3\assessment 3\obj\Debug\assessment 3.csproj.CoreCompileInputs.cache
-D:\csharp\assessment 3\assessment 3\obj\Debug\assessment 3.exe
-D:\csharp\assessment 3\assessment 3\obj\Debug\assessment 3.pdb

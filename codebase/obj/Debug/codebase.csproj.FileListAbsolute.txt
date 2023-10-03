@@ -1,7 +1,0 @@
-D:\exam\codebase\codebase\bin\Debug\codebase.exe.config
-D:\exam\codebase\codebase\bin\Debug\codebase.exe
-D:\exam\codebase\codebase\bin\Debug\codebase.pdb
-D:\exam\codebase\codebase\obj\Debug\codebase.csproj.AssemblyReference.cache
-D:\exam\codebase\codebase\obj\Debug\codebase.csproj.CoreCompileInputs.cache
-D:\exam\codebase\codebase\obj\Debug\codebase.exe
-D:\exam\codebase\codebase\obj\Debug\codebase.pdb

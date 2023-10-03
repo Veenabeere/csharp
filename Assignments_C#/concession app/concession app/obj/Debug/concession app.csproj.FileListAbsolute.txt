@@ -1,0 +1,10 @@
+D:\case study\concession app\concession app\bin\Debug\concession app.exe.config
+D:\case study\concession app\concession app\bin\Debug\concession app.exe
+D:\case study\concession app\concession app\bin\Debug\concession app.pdb
+D:\case study\concession app\concession app\bin\Debug\Concession.dll
+D:\case study\concession app\concession app\bin\Debug\Concession.pdb
+D:\case study\concession app\concession app\obj\Debug\concession app.csproj.AssemblyReference.cache
+D:\case study\concession app\concession app\obj\Debug\concession app.csproj.CoreCompileInputs.cache
+D:\case study\concession app\concession app\obj\Debug\concession app.csproj.CopyComplete
+D:\case study\concession app\concession app\obj\Debug\concession app.exe
+D:\case study\concession app\concession app\obj\Debug\concession app.pdb

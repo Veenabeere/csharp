@@ -1,7 +1,0 @@
-D:\csharp\Codebasetests\codebasetest3\codebasetest3\obj\Debug\codebasetest3.csproj.AssemblyReference.cache
-D:\csharp\Codebasetests\codebasetest3\codebasetest3\obj\Debug\codebasetest3.csproj.CoreCompileInputs.cache
-D:\csharp\Codebasetests\codebasetest3\codebasetest3\bin\Debug\codebasetest3.exe.config
-D:\csharp\Codebasetests\codebasetest3\codebasetest3\bin\Debug\codebasetest3.exe
-D:\csharp\Codebasetests\codebasetest3\codebasetest3\bin\Debug\codebasetest3.pdb
-D:\csharp\Codebasetests\codebasetest3\codebasetest3\obj\Debug\codebasetest3.exe
-D:\csharp\Codebasetests\codebasetest3\codebasetest3\obj\Debug\codebasetest3.pdb

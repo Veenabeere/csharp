@@ -1,6 +1,0 @@
-D:\csharp\assignment 4_2\assignment 4_2\bin\Debug\assignment 4_2.exe.config
-D:\csharp\assignment 4_2\assignment 4_2\bin\Debug\assignment 4_2.exe
-D:\csharp\assignment 4_2\assignment 4_2\bin\Debug\assignment 4_2.pdb
-D:\csharp\assignment 4_2\assignment 4_2\obj\Debug\assignment 4_2.csproj.CoreCompileInputs.cache
-D:\csharp\assignment 4_2\assignment 4_2\obj\Debug\assignment 4_2.exe
-D:\csharp\assignment 4_2\assignment 4_2\obj\Debug\assignment 4_2.pdb
