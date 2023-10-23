@@ -42,87 +42,9 @@ namespace Linq_assignment
                 Console.WriteLine($"{emp.FirstName} {emp.LastName}, {emp.DOJ.ToShortDateString()}");
             }
 
-            Console.WriteLine();
+       
 
-            //2.Display a list of all the employee whose date of birth is after 1 / 1 / 1990
-
-            Console.WriteLine("Employees whose data of birth is after 1/1/1990 :");
-            var after1990 = empList.Where(em => em.DOB > new DateTime(1990, 1, 1));
-            foreach (var emp in after1990)
-            {
-                Console.WriteLine($"{emp.FirstName} {emp.LastName}, {emp.DOJ.ToShortDateString()}");
-            }
-
-            Console.WriteLine();
-
-            //3.Display a list of all the employee whose designation is Consultant and Associate
-
-            Console.WriteLine("Employees whose designation is Consultant and Associate");
-            var desgEmp = empList.Where(em => em.Title == "Consultant" || em.Title == "Associate");
-            foreach (var emp in desgEmp)
-            {
-                Console.WriteLine($"{emp.FirstName} {emp.LastName},{emp.Title}");
-            }
-
-            Console.WriteLine();
-
-            //4.Display total number of employees
-
-            Console.WriteLine($"Total number of Employees :  {empList.Count} ");
-            Console.WriteLine();
-
-            //5. Display total number of employees belonging to “Chennai”
-
-            Console.WriteLine($"Total number of employees belonging to Chennai : {empList.Count(em => em.City == "Chennai")}");
-            Console.WriteLine();
-
-            //6. Display highest employee id from the list
-
-            int maxEmployeeID = empList.Max(em => em.EmployeeID);
-            Console.WriteLine($"Highest Employee ID: {maxEmployeeID}");
-            Console.WriteLine();
-
-            //7: Display total number of employees joined after 1/1/2015
-
-            Console.WriteLine($"Total number of employees joined after 1/1/2015: {empList.Count(em => em.DOJ > new DateTime(2015, 1, 1))}");
-            Console.WriteLine();
-
-            //8. Display total number of employee whose designation is not “Associate”
-
-            Console.WriteLine($"Total number of employees whose title is not 'Associate': {empList.Count(em => em.Title != "Associate")}");
-            Console.WriteLine();
-
-            //9. Display total number of employee based on City
-
-            Console.WriteLine("Total number of employees based on City:");
-            var cityCounts = empList.GroupBy(em => em.City)
-                                   .Select(gr => new { City = gr.Key, Count = gr.Count() });
-            foreach (var city in cityCounts)
-            {
-                Console.WriteLine($"{city.City}: {city.Count}");
-            }
-            Console.WriteLine();
-
-            // Task 10: Display total number of employees based on City and Title
-
-            Console.WriteLine("Total number of employees based on City and Title:");
-            var cityTitleCounts = empList.GroupBy(em => new { em.City, em.Title })
-                                         .Select(gr => new { City = gr.Key.City, Title = gr.Key.Title, Count = gr.Count() });
-            foreach (var item in cityTitleCounts)
-            {
-                Console.WriteLine($"{item.City}, {item.Title}: {item.Count}");
-            }
-            Console.WriteLine();
-
-            // Task 11: Display the youngest employee
-
-            Console.WriteLine("Youngest Employee:");
-            var youngestDOB = empList.Min(em => em.DOB);
-            var youngestEmployee = empList.Where(em => em.DOB == youngestDOB);
-            foreach (var emp in youngestEmployee)
-            {
-                Console.WriteLine($"{emp.FirstName} {emp.LastName}, {emp.DOB.ToShortDateString()}");
-            }
+           
 
             Console.ReadLine();
         }

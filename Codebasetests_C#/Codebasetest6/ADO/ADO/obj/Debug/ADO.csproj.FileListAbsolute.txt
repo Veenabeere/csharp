@@ -1,0 +1,7 @@
+D:\csharp\exam\ADO\ADO\bin\Debug\ADO.exe.config
+D:\csharp\exam\ADO\ADO\bin\Debug\ADO.exe
+D:\csharp\exam\ADO\ADO\bin\Debug\ADO.pdb
+D:\csharp\exam\ADO\ADO\obj\Debug\ADO.csproj.AssemblyReference.cache
+D:\csharp\exam\ADO\ADO\obj\Debug\ADO.csproj.CoreCompileInputs.cache
+D:\csharp\exam\ADO\ADO\obj\Debug\ADO.exe
+D:\csharp\exam\ADO\ADO\obj\Debug\ADO.pdb
