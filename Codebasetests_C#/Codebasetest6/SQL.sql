@@ -7,7 +7,7 @@ create database codetest
  empno int primary key,
  empname varchar(35),
  empsal decimal(10,2) check (empsal >=25000),
- emptype char(1))
+emptype char(1) CHECK (emptype IN ('F', 'P'))
 
 
    --Create a stored procedure to add new employee records. The procedure should accept all the employee details
