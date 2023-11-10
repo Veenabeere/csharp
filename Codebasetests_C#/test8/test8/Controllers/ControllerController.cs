@@ -17,7 +17,7 @@ namespace test8.Controllers
             return View(gC);
         }
 
-        // Second action method: Get customer details with orderId == 10248
+        
         public ActionResult CustomerDetails()
         {
             var customerD = db.Orders
