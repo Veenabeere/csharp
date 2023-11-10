@@ -1,0 +1,23 @@
+﻿@model test8.Models.Class1
+@{
+    ViewBag.Title = "CInG";
+}
+
+<table>
+    <tr>
+        <th>Customer ID</th>
+        <th>Company Name</th>
+        <!-- Add other customer properties as needed -->
+    </tr>
+
+    @foreach (var customer in Model)
+    {
+        <tr>
+            <td>@customer.CustomerID</td>
+            <td>@customer.CompanyName</td>
+            <!-- Add other customer properties as needed -->
+        </tr>
+    }
+</table>
+<h2>CInG</h2>
+
